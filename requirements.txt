@@ -7,7 +7,6 @@ Beaker==1.6.4
 BeautifulSoup==3.2.1
 beautifulsoup4==4.3.2
 blosc==1.2.4
-Bottleneck==0.8.0
 cchardet==0.3.5
 cdecimal==2.3
 certifi==14.5.14
